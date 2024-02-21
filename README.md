@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0B1F&height=200&section=header&text=Welcome in my Github&fontSize=30&fontColor=FFF&animation=twinkling&fontAlignY=40"/>
+![HTML](https://capsule-render.vercel.app/api?type=waving&color=0B1F&height=200&section=header&text=Welcome+in+my+Github&fontSize=30&fontColor=FFF&animation=twinkling&fontAlignY=40).
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFF&size=35&center=true&vCenter=true&width=1000&lines=Hello!;My+name's+Jhonathan+Novakosk.;I'm+27+years+old.;I'm+from+Curitiba,PR.;I'm+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
