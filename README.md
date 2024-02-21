@@ -1,6 +1,6 @@
 ![HTML](https://capsule-render.vercel.app/api?type=waving&color=0B1F&height=200&section=header&text=Welcome+in+my+Github&fontSize=30&fontColor=FFF&animation=twinkling&fontAlignY=40)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=32cd32&size=30&center=true&vCenter=true&width=800&lines=Hello!;My+name's+Jhonathan+Novakosk.;I'm+27+years+old.;I'm+from+Curitiba,PR.;I'm+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=32cd32&size=30&center=true&vCenter=true&width=800&lines=Hello!;My+name's+Jhonathan+Novakosk.;I'm+27+years+old.;I'm+from+Curitiba,PR.;I'm+developer;Be+Welcome!+:%29)](https://github.com/Jhowksk/)
 
 ### My Skills
 
